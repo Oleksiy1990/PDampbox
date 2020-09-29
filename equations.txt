@@ -1,0 +1,6 @@
+﻿"D1@Fillet5"="D1@Fillet1"
+"D4@Hole locations" = "D3@Hole locations"
+"SubD9HoleLeft"=10.5
+"D3@Sketch58"="SubD9HoleLeft"
+"TopHoleLocFromTop"=1.6
+"D1@Hole locations"="TopHoleLocFromTop"
